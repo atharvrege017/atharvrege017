@@ -30,9 +30,9 @@ I enjoy learning by building small projects, experimenting with different techno
 ### 📊 Data & Analytics
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,excel&theme=dark" />
-  <img src="https://cdn.jsdelivr.net/npm/@thesvg/icons/icons/microsoft-excel.svg" height="50" />
-</p>
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+  <img src="./assets/excel.png" height="50" alt="Microsoft Excel">
+  </p>
 
 **Currently learning:**
 Python • SQL • Statistics • Data Analysis • Data Visualization • Microsoft Excel
