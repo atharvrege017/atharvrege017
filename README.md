@@ -80,7 +80,7 @@ Programming
 ```
 
 ---
-
+<!--
 # 🚀 Projects
 
 I'm currently building my portfolio step-by-step.
@@ -119,7 +119,7 @@ I'm currently building my portfolio step-by-step.
     <img src="https://img.shields.io/github/stars/atharvrege017?style=for-the-badge&logo=github&label=Stars" />
   </a>
 </p>
-
+--->
 ---
 
 # 📈 My Learning Journey
