@@ -31,6 +31,7 @@ I enjoy learning by building small projects, experimenting with different techno
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,mysql,excel&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/npm/@thesvg/icons/icons/microsoft-excel.svg" height="50" />
 </p>
 
 **Currently learning:**
