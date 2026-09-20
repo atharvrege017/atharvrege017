@@ -30,11 +30,11 @@ I enjoy learning by building small projects, experimenting with different techno
 ### 📊 Data & Analytics
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,excel" />
 </p>
 
 **Currently learning:**
-Python • SQL • Statistics • Data Analysis • Data Visualization
+Python • SQL • Statistics • Data Analysis • Data Visualization • Microsoft Excel
 
 ### 🌐 Web & Programming
 
