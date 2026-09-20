@@ -30,7 +30,7 @@ I enjoy learning by building small projects, experimenting with different techno
 ### 📊 Data & Analytics
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,excel" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,excel&theme=dark" />
 </p>
 
 **Currently learning:**
