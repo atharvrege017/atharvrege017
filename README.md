@@ -39,10 +39,10 @@ Python • SQL • Statistics • Data Analysis • Data Visualization
 ### 🌐 Web & Programming
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,angular" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,angular,c" />
 </p>
 
-• HTML • CSS • JavaScript • AngularJS
+• HTML • CSS • JavaScript • AngularJS • C
 
 ### 🔧 Tools
 
